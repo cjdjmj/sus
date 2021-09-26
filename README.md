@@ -27,7 +27,10 @@ ModIDS = {
         2360917150, -- buyer robyx $Wrath#1979
         2295833140, -- booster token#1234
         1432929188, -- killbill#7258 robux
-        
+        1755090546, -- mys
+        206421734, -- 4Ace
+        1167903454, -- dropped 5m
+        2399094060, -- booster Rec0il
 
 
 
