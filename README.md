@@ -1,5 +1,7 @@
 ModIDS = { 
 2795701619,
+3245366071,
+490432634,
 
 }
 function swagnames()
